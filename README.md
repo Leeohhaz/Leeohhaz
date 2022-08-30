@@ -1,1 +1,1 @@
-![Uploading teno![Uploading tenor (1).gif…]()
+![Uploading tenor (1).gif…]()
