@@ -3,5 +3,9 @@
 ---
 
 <a href="https://www.instagram.com/leeohhaz" alt="Instagram" target="_blank">
-  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=for-the-badge&labelColor=DF0174&logo=instagram&logoColor=white&link=https://www.instagram.com/leeohhaz">
+  <img src="https://img.shields.io/badge/-Instagram-B4045F?style=for-the-badge&labelColor=B4045F&logo=instagram&logoColor=white&link=https://www.instagram.com/leeohhaz">
+</a>
+
+<a href="https://www.twitter.com/leeohhaz" alt="Twitter" target="_blank">
+  <img src="https://img.shields.io/badge/-Twitter-0174DF?style=for-the-badge&labelColor=0174DF&logo=Twitter&logoColor=white&link=https://www.twitter.com/leeohhaz">
 </a>
