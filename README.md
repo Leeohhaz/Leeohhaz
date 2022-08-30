@@ -17,8 +17,8 @@
   <img src="https://img.shields.io/badge/-Whatsapp-04B431?style=for-the-badge&labelColor=04B431&logo=Whatsapp&logoColor=white&link=https://www.Whatsapp.com/27995106362">
 </a>
 
-<a href="https://www.linkedin.com/leeohhaz" alt="Linkedin" target="_blank">
-  <img src="https://img.shields.io/badge/-Linkedin-4C5BC0?style=for-the-badge&labelColor=4C5BC0&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/leeohhaz">
+<a href="https://www.linkedin.com/in/leeohhaz" alt="Linkedin" target="_blank">
+  <img src="https://img.shields.io/badge/-Linkedin-4C5BC0?style=for-the-badge&labelColor=4C5BC0&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/leeohhaz">
 </a>
 
 
