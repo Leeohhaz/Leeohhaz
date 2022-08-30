@@ -1,6 +1,8 @@
+# SEJA BEM-VINDO!
 ![](https://i.pinimg.com/originals/83/b8/09/83b809857acd41a7bad4935b4734f9fc.gif)
 
 ---
+# REDES SOCIAIS
 <a href="https://www.twitter.com/leeohhaz" alt="Twitter" target="_blank">
   <img src="https://img.shields.io/badge/-Twitter-0174DF?style=for-the-badge&labelColor=0174DF&logo=Twitter&logoColor=white&link=https://www.twitter.com/leeohhaz">
 </a>
@@ -23,5 +25,6 @@
 
 
 ---
+# VISITAS 
+![Visitantes](https://profile-counter.glitch.me/{leeohhaz}/count.svg)
 
-![](https://git.io/typing-svg)
