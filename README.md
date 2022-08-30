@@ -1,1 +1,1 @@
-<a href="https://picasion.com/resize-gif/"><img src="https://i.picasion.com/resize92/2032a3bffc279e60d145b9147ea82848.gif" width="1300" height="729" border="0" alt="picasion.com" /></a><br /><a href="https://picasion.com/resize-gif/">picasion.com</a>
+https://c.tenor.com/3bTxZ4HdrysAAAAd/pixels-neon.gif
