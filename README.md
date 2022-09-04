@@ -1,5 +1,6 @@
 # SEJA BEM-VINDO!
-![](https://i.pinimg.com/originals/83/b8/09/83b809857acd41a7bad4935b4734f9fc.gif)
+![giphy](https://user-images.githubusercontent.com/110574974/188324406-f73f6c43-97ea-42d3-b27d-6745bdf4ea42.gif)
+
 
 ---
 # REDES SOCIAIS
