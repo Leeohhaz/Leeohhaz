@@ -1,5 +1,5 @@
 # SEJA BEM-VINDO!
-![giphy](https://user-images.githubusercontent.com/110574974/188324406-f73f6c43-97ea-42d3-b27d-6745bdf4ea42.gif)
+![giphy](https://user-images.githubusercontent.com/110574974/188514745-bc030bc0-4fa6-4e93-93e3-63609f6a014c.gif)
 
 
 ---
