@@ -1,4 +1,3 @@
-# SEJA BEM-VINDO!
 ![giphy](https://user-images.githubusercontent.com/110574974/188514745-bc030bc0-4fa6-4e93-93e3-63609f6a014c.gif)
 
 
